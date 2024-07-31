@@ -1,7 +1,3 @@
-Great! Here's a template for the `README.md` of your Image Classification project:
-
----
-
 # Image Classification
 
 ## Overview
